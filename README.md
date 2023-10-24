@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/princeyyyyy" target="blank"><img src="https://img.shields.io/twitter/follow/princeyyyyy?logo=twitter&style=for-the-badge" alt="princeyyyyy" /></a> </p>
 
-- 🔭 I’m currently working on **Budgeting App**
+- 🔭 I’m currently working on **Qpid**
 
 - 📫 How to reach me: **princemumo80@gmail.com**
 
