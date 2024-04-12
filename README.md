@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/princeyyyyy" target="blank"><img src="https://img.shields.io/twitter/follow/princeyyyyy?logo=twitter&style=for-the-badge" alt="princeyyyyy" /></a> </p>
 
-- 🔭 I’m currently working on [Qpid](https://www.instagram.com/qpidkenya?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
+- 🔭 I’m currently working on [Qpid](https://www.instagram.com/qpidkenya)
 
 - 📫 How to reach me: **princemumo80@gmail.com**
 
