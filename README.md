@@ -1,30 +1,55 @@
-![MasterHead](https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif)
-<h1 align="center">Hi 👋, I'm Prince Mumo</h1>
-<h3 align="center">A Software Engineering Student and Mobile Application Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/34e69eb61a7bd8dea1c957a8b82605a7.gif">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=200&section=header&text=Prince%20Mumo&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Engineer%20%C2%B7%20Nairobi%2C%20Kenya&descSize=18&descAlignY=58" alt="Header" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=princeyyyy&label=Profile%20views&color=0e75b6&style=flat" alt="princeyyyy" /> </p>
-
-<p align="left"> <a href="https://twitter.com/princeyyyyy" target="blank"><img src="https://img.shields.io/twitter/follow/princeyyyyy?logo=twitter&style=for-the-badge" alt="princeyyyyy" /></a> </p>
-
-- 🔭 I’m currently working on [Qpid](https://www.instagram.com/qpidkenya)
-
-- 📫 How to reach me: **princemumo80@gmail.com**
-
-- 🚀 Website: **https://prince-mumo.netlify.app**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/princeyyyyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="princeyyyyy" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/prince-mumo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prince-mumo" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/princeyyyy"><img src="https://komarev.com/ghpvc/?username=princeyyyy&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=520&lines=Building+things+end+to+end;APIs+%E2%86%92+databases+%E2%86%92+pixels;Flutter+apps+that+feel+native;Turning+coffee+into+commits" alt="Typing SVG" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=princeyyyy&show_icons=true&locale=en&layout=compact" alt="princeyyyy" /></p>
+## 👋 About me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=princeyyyy&show_icons=true&locale=en" alt="princeyyyy" /></p>
+I'm a full stack engineer in Nairobi who likes owning a product from the database all the way to the UI. I write Python APIs, build React and Next.js frontends, and ship mobile apps with Flutter. I'm also a student at the University of the People, so there's always something new to learn.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=princeyyyy&" alt="princeyyyy" /></p>
+## 🚀 What I'm building
 
+| Project | What it is | Built with |
+| --- | --- | --- |
+| 📚 **Bookmarked** | A sleek EPUB and PDF reading app | Flutter |
+| 🎉 **Fiesta** | A party game app for getting a group laughing | Flutter, Firebase |
+| ⏭️ **CleanPlay** | A Chrome extension that skips YouTube sponsor segments | JavaScript |
+
+## 🛠️ Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,fastapi,postgres,js,ts,react,nextjs,html,css,tailwind,dart,flutter,firebase,nodejs&perline=7" alt="Languages and frameworks" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode,figma,postman,androidstudio&perline=8" alt="Tools" />
+</p>
+
+## 📊 GitHub stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=princeyyyy&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=princeyyyy&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
+</p>
+
+## 🎲 Fun facts
+
+- 🌍 Based in Nairobi, building for the world
+- 📖 I make reading apps, so yes, I read
+- 🧠 Philosophy, finance, and environmental science are on my study list, which makes for odd dinner conversations
+- ⌨️ Most of my best ideas arrive right after I close the laptop
+
+## 📫 Let's connect
+
+<p align="center">
+  <a href="https://twitter.com/princeyyyyy"><img src="https://img.shields.io/badge/Twitter-@princeyyyyy-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter" /></a>
+  <a href="https://linkedin.com/in/prince-mumo"><img src="https://img.shields.io/badge/LinkedIn-prince--mumo-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="mailto:princemumo80@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-EA4335?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" /></a>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=100&section=footer" alt="Footer" />
